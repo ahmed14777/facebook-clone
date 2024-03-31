@@ -1,6 +1,6 @@
 ## Facebook clone with React.js
 
-_in this project i will use _
+_in this project i will use_
 ## **React.js - Framer-motion - tailwind -React icons - prop types -ReactRouter**
 
 ## Available Scripts
